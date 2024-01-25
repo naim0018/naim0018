@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Dhaka,Bangladesh</h3>
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naim0018&label=Profile%20views&color=0e75b6&style=flat" alt="naim0018" /> </p>
-<hr/>
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="naim0018" /> </p>
 <p>Recent Project :</p>
 <hr/>
