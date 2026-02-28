@@ -38,11 +38,11 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
       <a href="https://bestbuy4ubd.com/"><b>🚀 Live</b></a>
     </td>
     <td width="50%" valign="top">
-       <img src="https://placehold.co/600x340/0e75b6/white?text=Project+Preview" alt="Project 2" style="border-radius:10px;">
+       <img src="https://i.imgur.com/jevV9s0.png" alt="Project 2" style="border-radius:10px;">
       <h3>Component UI</h3>
       <p>A collection of modern Component</p>
       <p><b>ComponentUI:</b>React, Tailwind</p>
-      <a href="https://i.imgur.com/jevV9s0.png"><b>🚀 Live Demo</b></a>
+      <a href="https://component-collection-mu.vercel.app/"><b>🚀 Live Demo</b></a>
     </td>
   </tr>
 </table>
