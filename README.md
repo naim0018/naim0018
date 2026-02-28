@@ -32,17 +32,17 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
   <tr>
     <td width="50%" valign="top">
       <img src="https://shot.screenshotapi.net/screenshot?token=REPLACE_WITH_FREE_TOKEN&url=https://spark-tech-seven.vercel.app/&width=1280&height=720&output=image" alt="SparkTech" style="border-radius:10px;">
-      <h3>✨ SparkTech</h3>
-      <p>A modern tech-solution platform focused on efficiency and sleek UI.</p>
-      <p><b>Tech Stack:</b> React, Tailwind, Firebase</p>
-      <a href="https://spark-tech-seven.vercel.app/"><b>🚀 Live Demo</b></a>
+      <h3>✨ BestBuy4uBd</h3>
+      <p>A modern ecommerce platform focused on efficiency and sleek UI.</p>
+      <p><b>BestBuy4uBd:</b> React, Tailwind, Redux, Redux-Toolkit</p>
+      <a href="https://bestbuy4ubd.com/"><b>🚀 Live</b></a>
     </td>
     <td width="50%" valign="top">
        <img src="https://placehold.co/600x340/0e75b6/white?text=Project+Preview" alt="Project 2" style="border-radius:10px;">
-      <h3>📦 Project Two</h3>
-      <p>Brief description of your second best project goes here.</p>
-      <p><b>Tech Stack:</b> Node.js, MongoDB, Express</p>
-      <a href="#"><b>🚀 Live Demo</b></a>
+      <h3>Component UI</h3>
+      <p>A collection of modern Component</p>
+      <p><b>ComponentUI:</b>React, Tailwind</p>
+      <a href="https://i.imgur.com/jevV9s0.png"><b>🚀 Live Demo</b></a>
     </td>
   </tr>
 </table>
