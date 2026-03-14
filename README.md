@@ -33,7 +33,7 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
 
 <td width="50%" valign="top">
 
-<div style="height:220px; overflow:auto; border-radius:10px;">
+<div >
 <img src="https://i.imgur.com/Glr4ou8.jpeg" width="100%">
 </div>
 
@@ -46,7 +46,26 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
 <a href="https://bestbuy4ubd.com/">🚀 Live</a>
 
 </td>
-<td width="50%" valign="top">
+<td>
+  <div width="50%" valign="top">
+
+<div >
+<img src="https://i.imgur.com/zlsvXGL.png" width="100%">
+</div>
+
+<h3>Project Management</h3>
+<p>A project management application for organizing tasks, tracking progress, and managing team workflows efficiently.</p>
+<p><b>Tech Stack:</b> React, Tailwind, Redux, Redux-Toolkit, Socket.io</p>
+
+<a href="https://project-management-eight-eta.vercel.app/">🚀 Live Demo</a>
+
+</div>
+
+
+<hr style="border:none; height:1px; background:linear-gradient(to right, transparent, #58a6ff, transparent); margin:20px 0;">
+
+
+<div width="50%" valign="top">
 
 <div style="height:220px; overflow:auto; border-radius:10px;">
 <img src="https://i.imgur.com/jevV9s0.png" width="100%">
@@ -60,22 +79,11 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
 
 <a href="https://component-collection-mu.vercel.app/">🚀 Live Demo</a>
 
+</div>
 </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
 
-<div style="height:220px; overflow:auto; border-radius:10px;">
-<img src="https://i.imgur.com/zlsvXGL.png" width="100%">
-</div>
-
-<h3>Project Management</h3>
-<p>A project management application for organizing tasks, tracking progress, and managing team workflows efficiently.</p>
-<p><b>Tech Stack:</b> React, Tailwind, Redux, Redux-Toolkit, Socket.io</p>
-
-<a href="https://project-management-eight-eta.vercel.app/">🚀 Live Demo</a>
-
-</td>
 </tr>
 </table>
 
