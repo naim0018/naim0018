@@ -32,7 +32,7 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
   <tr>
     <td width="50%" valign="top">
       <div style="height:260px; overflow:auto; border-radius:10px;">
-<img src="https://i.imgur.com/jevV9s0.png" width="100%">
+<img src="https://i.imgur.com/Glr4ou8.jpeg" width="100%">
 </div>
       <h3>✨ BestBuy4uBd</h3>
       <p>A modern ecommerce platform focused on efficiency and sleek UI.</p>
