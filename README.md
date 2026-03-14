@@ -31,7 +31,7 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://shot.screenshotapi.net/screenshot?token=REPLACE_WITH_FREE_TOKEN&url=https://spark-tech-seven.vercel.app/&width=1280&height=720&output=image" alt="SparkTech" style="border-radius:10px;">
+      <img src="https://i.imgur.com/Glr4ou8.jpeg&url=https://spark-tech-seven.vercel.app/&width=1280&height=720&output=image" alt="SparkTech" style="border-radius:10px;">
       <h3>✨ BestBuy4uBd</h3>
       <p>A modern ecommerce platform focused on efficiency and sleek UI.</p>
       <p><b>BestBuy4uBd:</b> React, Tailwind, Redux, Redux-Toolkit</p>
