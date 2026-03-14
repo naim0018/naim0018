@@ -61,7 +61,9 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
 <a href="https://component-collection-mu.vercel.app/">🚀 Live Demo</a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
 <div style="height:220px; overflow:auto; border-radius:10px;">
 <img src="https://i.imgur.com/zlsvXGL.png" width="100%">
@@ -74,9 +76,6 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
 <a href="https://project-management-eight-eta.vercel.app/">🚀 Live Demo</a>
 
 </td>
-
-
-
 </tr>
 </table>
 
