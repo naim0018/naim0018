@@ -31,9 +31,7 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <div style="height:260px; overflow:auto; border-radius:10px;">
-<img src="https://i.imgur.com/Glr4ou8.jpeg" width="100%" height="260px">
-</div>
+<img src="https://i.imgur.com/Glr4ou8.jpeg" width="100%" height="260px" style="height:260px; overflow:auto; border-radius:10px;">
       <h3>✨ BestBuy4uBd</h3>
       <p>A modern ecommerce platform focused on efficiency and sleek UI.</p>
       <p><b>BestBuy4uBd:</b> React, Tailwind, Redux, Redux-Toolkit</p>
