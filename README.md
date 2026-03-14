@@ -38,7 +38,7 @@ A dedicated **Frontend Developer** with a focus on building responsive, user-cen
       <a href="https://bestbuy4ubd.com/"><b>🚀 Live</b></a>
     </td>
     <td width="50%" valign="top">
-       <img src="https://i.imgur.com/jevV9s0.png" width="100%" height="260px" alt="Project 2" style="border-radius:10px;">
+       <img src="https://i.imgur.com/jevV9s0.png" width="100%" height="260px" style="height:260px; overflow:auto; border-radius:10px;" alt="Project 2" style="border-radius:10px;">
       <h3>Component UI</h3>
       <p>A collection of modern Component</p>
       <p><b>ComponentUI:</b>React, Tailwind</p>
