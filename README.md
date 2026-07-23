@@ -12,25 +12,53 @@
 
 I'm a Frontend-focused MERN Stack Developer dedicated to building responsive, user-centric web applications. My core strength is the frontend — crafting clean, pixel-perfect, and user friendly UIs with React/Nextjs — backed by solid full-stack skills across Node.js, ExpressJS, NestJS, MongoDB, Prisma, and PostgreSQL when the project calls for it.
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css" />
+<p align="center">
+<b>Frontend</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase" />
+<p align="center">
+<b>Backend</b><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-**Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+<p align="center">
+<b>Database</b><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
-**Design**  
-<img src="https://skillicons.dev/icons?i=figma,xd" />
+<p align="center">
+<b>Design</b><br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+</p>
 
-**Version Control**  
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+<p align="center">
+<b>Version Control</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
-**Deployment**  
-<img src="https://skillicons.dev/icons?i=vercel,docker" /> ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+<b>Deployment</b><br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
