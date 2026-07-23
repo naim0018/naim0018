@@ -15,7 +15,7 @@ I'm a Frontend-focused MERN Stack Developer dedicated to building responsive, us
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-<b>Frontend</b><br>
+<!-- <b>Frontend</b><br> -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -25,7 +25,7 @@ I'm a Frontend-focused MERN Stack Developer dedicated to building responsive, us
 </p>
 
 <p align="center">
-<b>Backend</b><br>
+<!-- <b>Backend</b><br> -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -33,27 +33,27 @@ I'm a Frontend-focused MERN Stack Developer dedicated to building responsive, us
 </p>
 
 <p align="center">
-<b>Database</b><br>
+<!-- <b>Database</b><br> -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 <p align="center">
-<b>Design</b><br>
+<!-- <b>Design</b><br> -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
 </p>
 
 <p align="center">
-<b>Version Control</b><br>
+<!-- <b>Version Control</b><br> -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 <p align="center">
-<b>Deployment</b><br>
+<!-- <b>Deployment</b><br> -->
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
