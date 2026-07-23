@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/maNugKk.png" alt="Header" width="100%"/>
 </p>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Md.%20Kazi%20Naim&fontSize=70&animation=fadeIn)
 <p align="center">
   <a href="mailto:mdkazinaim0018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/md-kazi-naim-434994213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
