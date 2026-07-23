@@ -8,12 +8,9 @@
   <a href="https://fb.com/mdkazinaim.naim/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
----
+👨‍💻 About Me
 
-## 🚀 Summary
-A dedicated **Frontend Developer** with a focus on building responsive, user-centric web applications. Proficient in the **MERN stack**, with a keen eye for design and performance. Currently seeking opportunities to contribute to innovative tech solutions.
-
----
+I'm a Frontend-focused MERN Stack Developer dedicated to building responsive, user-centric web applications. My core strength is the frontend — crafting clean, performant, and accessible UIs with React — backed by solid full-stack skills across Node.js, Express, and MongoDB when the project calls for it. Currently open to opportunities where I can contribute to innovative, impactful tech solutions.
 
 ## 🛠 Tech Stack
 
