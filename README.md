@@ -150,3 +150,11 @@ I'm a Frontend-focused MERN Stack Developer dedicated to building responsive, us
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" />
 </p>
+
+
+📊 GitHub Analytics
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naim0018&show_icons=true&theme=vision-friendly-dark&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=naim0018&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naim0018&theme=vision-friendly-dark&hide_border=true" width="100%" /> </div> <br/>
+🏆 Trophies & Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=naim0018&theme=radical&no-bg=true&column=7" alt="Trophies" /> </div> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=naim0018&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
+💬 "Building clean, purposeful interfaces — one component at a time."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0077B5&height=100&section=footer" width="100%"/> </div>
