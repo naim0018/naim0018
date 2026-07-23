@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Md.%20Kazi%20Naim&fontSize=70&animation=fadeIn" alt="Header" />
+  <img src="https://imgur.com/maNugKk" alt="Header" />
 </p>
 
 <p align="center">
